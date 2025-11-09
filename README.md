@@ -80,7 +80,6 @@ python pdf_merger.py --help
 ```bash
 build.bat
 ```
-```
 
 打包完成后，可执行文件位于 `dist` 目录中。
 
@@ -95,5 +94,3 @@ build.bat
 - **nuitka**：用于将Python代码打包为独立的可执行文件
 
 ---
-
-Made with ❤️ for PDF file management
